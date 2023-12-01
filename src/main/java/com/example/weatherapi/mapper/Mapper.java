@@ -1,4 +1,4 @@
-package com.example.weatherApi.mapper;
+package com.example.weatherapi.mapper;
 
 public interface Mapper<F, T> {
 

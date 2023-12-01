@@ -1,4 +1,4 @@
-package com.example.weatherApi.dto.weatherApi;
+package com.example.weatherapi.dto.weatherApi;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,11 +1,6 @@
-package com.example.weatherApi.dto;
+package com.example.weatherapi.dto;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-
-
-import javax.persistence.*;
 
 @Data
 public class WeatherInfoDto {
